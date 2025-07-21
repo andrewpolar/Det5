@@ -1,15 +1,15 @@
 //Concept: Andrew Polar and Mike Poluektov
 //Developer Andrew Polar
 
-//License
-//In case if end user finds the way of making a profit by using this code and earns
-//billions of US dollars and meet developer bagging change in the street near McDonalds,
-//he or she is not in obligation to buy him a sandwich.
+// License
+// If the end user somehow manages to make billions of US dollars using this code,
+// and happens to meet the developer begging for change outside a McDonald's,
+// he or she is under no obligation to buy the developer a sandwich.
 
-//Symmetricity
-//In case developer became rich and famous by publishing this code and meet misfortunate
-//end user who went bankrupt by using this code, he is also not in obligation to buy
-//end user a sandwich.
+// Symmetry Clause
+// Likewise, if the developer becomes rich and famous by publishing this code,
+// and meets an unfortunate end user who went bankrupt using it,
+// the developer is also under no obligation to buy the end user a sandwich.
 
 //Publications:
 //https://www.sciencedirect.com/science/article/abs/pii/S0016003220301149
